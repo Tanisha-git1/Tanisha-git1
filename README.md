@@ -52,8 +52,8 @@ I’m passionate about using Data Science and AI to tackle real-world challenges
 
 | Project | Key Technologies | Impact & Summary |
 | :--- | :--- | :--- |
-| <a href="https://github.com/Tanisha-git1" target="_blank">Animalia Sanctuary Database</a> | SQL, Relational Modeling, PostgreSQL | Designed a normalized database schema with complex JOINs, CTEs, and aggregated reporting. |
-| <a href="https://github.com/Tanisha-git1" target="_blank">Influenza Outbreak Prediction</a> | Python, Scikit-Learn, XGBoost, Power BI | ML pipeline handling class imbalance on Twitter data; uncovered 3–7 day early warning signals. |
-| <a href="https://github.com/Tanisha-git1/employee-retention-prediction" target="_blank">Employee Retention Prediction</a> | Python, Scikit-Learn, Feature Engineering | Optimized ML models achieving 91.5% recall for at-risk employees, projecting $1.47M in savings. |
+| <a href="https://github.com/Tanisha-git1/animalia-sanctuary-database" target="_blank">Animalia Sanctuary Database</a> | SQL, Relational Modeling, PostgreSQL | Designed a normalized database schema with complex JOINs, CTEs, and aggregated reporting. |
+| <a href="[https://github.com/Tanisha-git1](https://github.com/Tanisha-git1/influenza-outbreak-prediction)" target="_blank">Influenza Outbreak Prediction</a> | Python, Scikit-Learn, XGBoost, Power BI | ML pipeline handling class imbalance on Twitter data; uncovered 3–7 day early warning signals. |
+| <a href="https://github.com/Tanisha-git1/employee-retention-strategy" target="_blank">Employee Retention Strategy</a> | Python, Scikit-Learn, Feature Engineering | Optimized ML models achieving 91.5% recall for at-risk employees, projecting $1.47M in savings. |
 
 ---
