@@ -8,8 +8,6 @@ I’m passionate about using Data Science and AI to tackle real-world challenges
   
 ---
 
-### 🛠️ Core Competencies & Tools
-
 ### 🛠️ Skills & Technologies
 
 #### **Languages:**
